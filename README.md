@@ -25,7 +25,7 @@ Sistem informasi ini bertujuan untuk meningkatkan efisiensi, ketepatan dan keama
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/muhamadAzis32/SuratMK-Laravel1.git
+git clone https://github.com/Wicakkk/Surat-Masuk-Keluar.git
 ```
 
 ### Setup Aplikasi
